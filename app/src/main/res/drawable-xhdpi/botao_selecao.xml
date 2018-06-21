@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- pressionado -->
+    <item android:drawable="@color/sua_cor_pressionado" android:state_pressed="true"/>
+
+    <!-- focalisado-->
+    <item android:drawable="@color/sua_cor_do_foco" android:state_activated="true"/>
+
+    <!-- normal-->
+    <item android:drawable="@color/sua_cor_default"/>
+
+
+
+</selector>

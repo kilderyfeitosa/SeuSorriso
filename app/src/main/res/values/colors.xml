@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fb7100</color>
+    <color name="colorPrimaryDark">#fb5e00</color>
+    <color name="colorAccent">#000000</color>
+
+
+    <color name="sua_cor_pressionado">#f10073bf</color>
+    <color name="sua_cor_do_foco">#cbaf0bea</color>
+    <color name="sua_cor_default">#000000</color>
+</resources>
