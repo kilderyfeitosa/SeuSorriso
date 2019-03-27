@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
                         "    <style type=\"text/css\">\n" +
                         "        \n" +
                         "        .corpo {\n" +
-                        "        padding: 2vh;\n" +
+                        "        padding: 1vh;\n" +
                         "        text-align: justify;\n" +
                         "        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;\n" +
                         "        \n" +
@@ -243,7 +243,7 @@ public class MainActivity extends AppCompatActivity {
                         "                - Manter sua decisão de parar de fumar.\n" +
                         "            </p>\n" +
                         "            <p></p>\n" +
-                        "            Modificar hábitos antigos que o levam a fumar. Procurar atividades alternativas para o lazer. O uso da reposição de nicotina ou de outro medicamento pode facilitar a parada, diminuindo os sintomas de abstinência – conversar com profis- sional especializado.\n" +
+                        "            Modificar hábitos antigos que o levam a fumar. Procurar atividades alternativas para o lazer. O uso da reposição de nicotina ou de outro medicamento pode facilitar a parada, diminuindo os sintomas de abstinência – conversar com profissional especializado.\n" +
                         "\n" +
                         "        </div>\n" +
                         "        \n" +

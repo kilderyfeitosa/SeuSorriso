@@ -164,8 +164,8 @@ class MouthGraphic extends GraphicOverlay.Graphic {
                            PointF smilePosition,  float smileRadius, boolean isOpen) {
 
         if (isOpen) {
-            //canvas.drawBitmap(mSorriso,leftPosition.x, buttomPosition.y-120, null);
-            canvas.drawBitmap(mSorriso,buttomPosition.x-100, buttomPosition.y-85, null);
+            canvas.drawBitmap(mSorriso,leftPosition.x, buttomPosition.y, null);
+//            canvas.drawBitmap(mSorriso,buttomPosition.x-100, buttomPosition.y-85, null); // Cell Kill
 //            canvas.drawBitmap(mSorriso,buttomPosition.x-100, buttomPosition.y-90, null);
             //canvas.drawBitmap(efeitos,buttomPosition.x, buttomPosition.y, null);
 
