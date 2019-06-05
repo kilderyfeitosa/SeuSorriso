@@ -1,195 +1,262 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:2:1-44:12
-MERGED from [com.android.support:design:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\83cbcc5a7929a227c960ad453762b6be\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\db2162425fe15efde04d5a614190b407\AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\05f7ecf0bc9df57611da4e2eb86fd5bb\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\4c23a5bdbdaaef465e8ac8092cf8bc67\AndroidManifest.xml:16:1-24:12
-MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\cde63dd961209811a4f7862db1f3c3f1\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d6349762191207cbf70719520def84eb\AndroidManifest.xml:16:1-26:12
-MERGED from [com.android.support:support-v4:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\9c27a8d466668468b5e00c9b88648995\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f65726c21d9cc48573139e256439a3ee\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.0.aar\de17f96b4b8c685706f15a452509bc35\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\5911061e407dcb3b9b010982f1c1c6f3\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\a9a32e520aed5284b5b6e91b4d7d4281\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\6a8ab81ed92cddbe165cb95ac3a869ac\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\2d6d5d15a095c618f5b7eabb2e65d5d7\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\69b7bbe56aef353e44dfe79a3756bd89\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\7dafe573a8aff7a4b94906a1866691ea\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-compat:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\d698a4614d4fa783bc3abe84f0fa454c\AndroidManifest.xml:17:1-27:12
-INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:2:1-44:12
+ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\2d2176a72aa7b9b85604f8b21948cba5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\1bd0344073a6c16695a8daf51ef5f7a1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\44e37eff62350f40e56302688544a000\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\07badc32b4b6ba8444aef95b1a6f59ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e559f0fa57b2be51d771881e0ac63558\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\046c4c2149a9fdd1f27393366349d9a2\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3b911572d2882bc28caf24a007546208\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\8056b88a2ed5a0fecfb8715f4359b8bd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\4c0390293b76dec8a91445563125e540\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b595af6032a2a7c61da36b0f00985c10\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\18db556859aecffb6e8c82781bef5a2e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\cd191211fd4104c3bdb9e2e59eef7c80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d76223c5d0230bd096aaa664207991e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\097bca3aaa593716148fcd3c9c9a54b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\400456e5cd2b9f876f795e7d3eb5b921\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ec54a8706a81a18988d5820bcb3c9bf5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7285b0751cf4fda63efc39345967036b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5fba3a4ba81ebb50efe9b67c24fbe475\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\317c897529017ba03f76f47c1441c479\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7a5096f16f496621a1da00e03aa98eda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\173a2a00a3977e88611a0e415b121b89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a20209194443793bce5863be27eb748d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ff16862c78bf9fc3c772df7c786a5b8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bf36859040faefbb31c3812e3fd6a264\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\29617d0a3f8937b3794447dd4a42fcb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8a99401d09003c599a66017e0f02a09d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\dfb05ec3294644dd4de0c5226445f85d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c31c6c65215e232451f9fe03da3c2df6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\574c6a41db35383e8285374b5455bbff\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\4340c00a0154db4a69d7747a19d361ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\99dc5886902aa848ec461dcc802bcf4e\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9b9cccdf79c38142229a198b8f50d24b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ccc148f9183f4b1b7c5021adeaed327b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ced3a15e7ead559ff7c96cb8046729d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\91cd28d2c446e02f1a45d433cebdb7ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\96319bd9ccbc12b28b26d2bfa00c3c0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7645dcfcedec4ffec59cb9287a40fdd9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cbfa9dfe3982e2608358aea969b6edf2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\67349f6edb8d068771e38eed125d7c21\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b38502525dc3a77c67a2582c87783fe8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5d4465ad45feb7559a2474ef9847d013\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:2:1-44:12
 	package
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:6:5-28
-		INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:5:5-28
-		INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
 	android:installLocation
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:4:5-35
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:4:5-35
 uses-feature#android.hardware.camera
-ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:8:5-60
+ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:8:5-60
 	android:name
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:8:19-57
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:8:19-57
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:10:5-65
+ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:10:5-65
 	android:name
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:10:22-62
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:10:22-62
 application
-ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:12:5-42:19
-MERGED from [com.android.support:design:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\83cbcc5a7929a227c960ad453762b6be\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\83cbcc5a7929a227c960ad453762b6be\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\db2162425fe15efde04d5a614190b407\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\db2162425fe15efde04d5a614190b407\AndroidManifest.xml:25:5-20
-MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\05f7ecf0bc9df57611da4e2eb86fd5bb\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\05f7ecf0bc9df57611da4e2eb86fd5bb\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\4c23a5bdbdaaef465e8ac8092cf8bc67\AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\4c23a5bdbdaaef465e8ac8092cf8bc67\AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\cde63dd961209811a4f7862db1f3c3f1\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\cde63dd961209811a4f7862db1f3c3f1\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d6349762191207cbf70719520def84eb\AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d6349762191207cbf70719520def84eb\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\9c27a8d466668468b5e00c9b88648995\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\9c27a8d466668468b5e00c9b88648995\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f65726c21d9cc48573139e256439a3ee\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f65726c21d9cc48573139e256439a3ee\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\5911061e407dcb3b9b010982f1c1c6f3\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\5911061e407dcb3b9b010982f1c1c6f3\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\a9a32e520aed5284b5b6e91b4d7d4281\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\a9a32e520aed5284b5b6e91b4d7d4281\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\6a8ab81ed92cddbe165cb95ac3a869ac\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\6a8ab81ed92cddbe165cb95ac3a869ac\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\2d6d5d15a095c618f5b7eabb2e65d5d7\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\2d6d5d15a095c618f5b7eabb2e65d5d7\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\69b7bbe56aef353e44dfe79a3756bd89\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\69b7bbe56aef353e44dfe79a3756bd89\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\7dafe573a8aff7a4b94906a1866691ea\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\7dafe573a8aff7a4b94906a1866691ea\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\d698a4614d4fa783bc3abe84f0fa454c\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\d698a4614d4fa783bc3abe84f0fa454c\AndroidManifest.xml:25:5-20
+ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:12:5-42:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\2d2176a72aa7b9b85604f8b21948cba5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\2d2176a72aa7b9b85604f8b21948cba5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\1bd0344073a6c16695a8daf51ef5f7a1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\1bd0344073a6c16695a8daf51ef5f7a1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\44e37eff62350f40e56302688544a000\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\44e37eff62350f40e56302688544a000\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e559f0fa57b2be51d771881e0ac63558\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e559f0fa57b2be51d771881e0ac63558\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\046c4c2149a9fdd1f27393366349d9a2\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\046c4c2149a9fdd1f27393366349d9a2\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3b911572d2882bc28caf24a007546208\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3b911572d2882bc28caf24a007546208\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\8056b88a2ed5a0fecfb8715f4359b8bd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\8056b88a2ed5a0fecfb8715f4359b8bd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b595af6032a2a7c61da36b0f00985c10\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b595af6032a2a7c61da36b0f00985c10\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\18db556859aecffb6e8c82781bef5a2e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\18db556859aecffb6e8c82781bef5a2e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\574c6a41db35383e8285374b5455bbff\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\574c6a41db35383e8285374b5455bbff\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\99dc5886902aa848ec461dcc802bcf4e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\99dc5886902aa848ec461dcc802bcf4e\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\574c6a41db35383e8285374b5455bbff\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:16:9-35
 	android:hardwareAccelerated
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:14:9-43
 	android:icon
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:15:9-38
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:15:9-38
 	android:allowBackup
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:17:9-47
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:17:9-47
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:18:9-20:69
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d6349762191207cbf70719520def84eb\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d6349762191207cbf70719520def84eb\AndroidManifest.xml:21:9-23:69
+ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\8056b88a2ed5a0fecfb8715f4359b8bd\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\8056b88a2ed5a0fecfb8715f4359b8bd\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:20:13-66
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:20:13-66
 	android:name
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:19:13-58
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:19:13-58
 meta-data#com.google.android.gms.vision.DEPENDENCIES
-ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:21:9-23:36
+ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:21:9-23:36
 	android:value
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:23:13-33
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:23:13-33
 	android:name
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:22:13-70
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:22:13-70
 activity#com.unicatolica.seusorriso.MouthActivity
-ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:25:9-36:20
+ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:25:9-36:20
 	android:screenOrientation
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:29:13-47
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:29:13-47
 	android:label
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:28:13-45
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:28:13-45
 	android:icon
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:27:13-42
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:27:13-42
 	android:theme
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:30:13-63
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:30:13-63
 	android:name
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:26:13-68
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:31:13-35:29
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:26:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:32:17-69
+ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:32:25-66
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:34:17-77
+ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:34:27-74
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:34:27-74
 activity#com.unicatolica.seusorriso.MainActivity
-ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:37:9-40:66
+ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:37:9-40:66
 	android:screenOrientation
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:39:13-47
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:39:13-47
 	android:theme
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:40:13-63
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:40:13-63
 	android:name
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:38:13-67
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:38:13-67
 activity#com.unicatolica.seusorriso.bd.seusorriso.CadastrarUsuario
-ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:41:9-103
+ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:41:9-103
 	android:name
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml:41:19-91
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml:41:19-91
 uses-sdk
-INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\83cbcc5a7929a227c960ad453762b6be\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\83cbcc5a7929a227c960ad453762b6be\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\db2162425fe15efde04d5a614190b407\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\db2162425fe15efde04d5a614190b407\AndroidManifest.xml:21:5-23:78
-MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\05f7ecf0bc9df57611da4e2eb86fd5bb\AndroidManifest.xml:4:5-42
-MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\05f7ecf0bc9df57611da4e2eb86fd5bb\AndroidManifest.xml:4:5-42
-MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\4c23a5bdbdaaef465e8ac8092cf8bc67\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\4c23a5bdbdaaef465e8ac8092cf8bc67\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\cde63dd961209811a4f7862db1f3c3f1\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\cde63dd961209811a4f7862db1f3c3f1\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d6349762191207cbf70719520def84eb\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d6349762191207cbf70719520def84eb\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\9c27a8d466668468b5e00c9b88648995\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\9c27a8d466668468b5e00c9b88648995\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f65726c21d9cc48573139e256439a3ee\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f65726c21d9cc48573139e256439a3ee\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.0.aar\de17f96b4b8c685706f15a452509bc35\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.0.aar\de17f96b4b8c685706f15a452509bc35\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\5911061e407dcb3b9b010982f1c1c6f3\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\5911061e407dcb3b9b010982f1c1c6f3\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\a9a32e520aed5284b5b6e91b4d7d4281\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\a9a32e520aed5284b5b6e91b4d7d4281\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\6a8ab81ed92cddbe165cb95ac3a869ac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\6a8ab81ed92cddbe165cb95ac3a869ac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\2d6d5d15a095c618f5b7eabb2e65d5d7\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\2d6d5d15a095c618f5b7eabb2e65d5d7\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\69b7bbe56aef353e44dfe79a3756bd89\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\69b7bbe56aef353e44dfe79a3756bd89\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\7dafe573a8aff7a4b94906a1866691ea\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\7dafe573a8aff7a4b94906a1866691ea\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-compat:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\d698a4614d4fa783bc3abe84f0fa454c\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\d698a4614d4fa783bc3abe84f0fa454c\AndroidManifest.xml:21:5-23:58
-INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\db2162425fe15efde04d5a614190b407\AndroidManifest.xml:23:9-75
+INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\2d2176a72aa7b9b85604f8b21948cba5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\2d2176a72aa7b9b85604f8b21948cba5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\1bd0344073a6c16695a8daf51ef5f7a1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\1bd0344073a6c16695a8daf51ef5f7a1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\44e37eff62350f40e56302688544a000\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\44e37eff62350f40e56302688544a000\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\07badc32b4b6ba8444aef95b1a6f59ea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\07badc32b4b6ba8444aef95b1a6f59ea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e559f0fa57b2be51d771881e0ac63558\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e559f0fa57b2be51d771881e0ac63558\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\046c4c2149a9fdd1f27393366349d9a2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\046c4c2149a9fdd1f27393366349d9a2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3b911572d2882bc28caf24a007546208\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3b911572d2882bc28caf24a007546208\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\8056b88a2ed5a0fecfb8715f4359b8bd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\8056b88a2ed5a0fecfb8715f4359b8bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\4c0390293b76dec8a91445563125e540\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\4c0390293b76dec8a91445563125e540\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b595af6032a2a7c61da36b0f00985c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b595af6032a2a7c61da36b0f00985c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\18db556859aecffb6e8c82781bef5a2e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\18db556859aecffb6e8c82781bef5a2e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\cd191211fd4104c3bdb9e2e59eef7c80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\cd191211fd4104c3bdb9e2e59eef7c80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d76223c5d0230bd096aaa664207991e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d76223c5d0230bd096aaa664207991e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\097bca3aaa593716148fcd3c9c9a54b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\097bca3aaa593716148fcd3c9c9a54b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\400456e5cd2b9f876f795e7d3eb5b921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\400456e5cd2b9f876f795e7d3eb5b921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ec54a8706a81a18988d5820bcb3c9bf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ec54a8706a81a18988d5820bcb3c9bf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7285b0751cf4fda63efc39345967036b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7285b0751cf4fda63efc39345967036b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5fba3a4ba81ebb50efe9b67c24fbe475\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5fba3a4ba81ebb50efe9b67c24fbe475\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\317c897529017ba03f76f47c1441c479\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\317c897529017ba03f76f47c1441c479\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7a5096f16f496621a1da00e03aa98eda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7a5096f16f496621a1da00e03aa98eda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\173a2a00a3977e88611a0e415b121b89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\173a2a00a3977e88611a0e415b121b89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a20209194443793bce5863be27eb748d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a20209194443793bce5863be27eb748d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ff16862c78bf9fc3c772df7c786a5b8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ff16862c78bf9fc3c772df7c786a5b8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bf36859040faefbb31c3812e3fd6a264\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bf36859040faefbb31c3812e3fd6a264\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\29617d0a3f8937b3794447dd4a42fcb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\29617d0a3f8937b3794447dd4a42fcb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8a99401d09003c599a66017e0f02a09d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8a99401d09003c599a66017e0f02a09d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\dfb05ec3294644dd4de0c5226445f85d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\dfb05ec3294644dd4de0c5226445f85d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c31c6c65215e232451f9fe03da3c2df6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c31c6c65215e232451f9fe03da3c2df6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\574c6a41db35383e8285374b5455bbff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\574c6a41db35383e8285374b5455bbff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\4340c00a0154db4a69d7747a19d361ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\4340c00a0154db4a69d7747a19d361ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\99dc5886902aa848ec461dcc802bcf4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\99dc5886902aa848ec461dcc802bcf4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9b9cccdf79c38142229a198b8f50d24b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9b9cccdf79c38142229a198b8f50d24b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ccc148f9183f4b1b7c5021adeaed327b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ccc148f9183f4b1b7c5021adeaed327b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ced3a15e7ead559ff7c96cb8046729d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ced3a15e7ead559ff7c96cb8046729d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\91cd28d2c446e02f1a45d433cebdb7ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\91cd28d2c446e02f1a45d433cebdb7ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\96319bd9ccbc12b28b26d2bfa00c3c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\96319bd9ccbc12b28b26d2bfa00c3c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7645dcfcedec4ffec59cb9287a40fdd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7645dcfcedec4ffec59cb9287a40fdd9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cbfa9dfe3982e2608358aea969b6edf2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cbfa9dfe3982e2608358aea969b6edf2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\67349f6edb8d068771e38eed125d7c21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\67349f6edb8d068771e38eed125d7c21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b38502525dc3a77c67a2582c87783fe8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b38502525dc3a77c67a2582c87783fe8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5d4465ad45feb7559a2474ef9847d013\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5d4465ad45feb7559a2474ef9847d013\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\fcrs1975\Desktop\Projetos\SeuSorriso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fcrs1975\StudioProjects\SeuSorriso\app\src\main\AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\4c23a5bdbdaaef465e8ac8092cf8bc67\AndroidManifest.xml:20:9-22:45
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\046c4c2149a9fdd1f27393366349d9a2\AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\4c23a5bdbdaaef465e8ac8092cf8bc67\AndroidManifest.xml:22:19-43
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\046c4c2149a9fdd1f27393366349d9a2\AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\4c23a5bdbdaaef465e8ac8092cf8bc67\AndroidManifest.xml:21:19-78
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\046c4c2149a9fdd1f27393366349d9a2\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\4c23a5bdbdaaef465e8ac8092cf8bc67\AndroidManifest.xml:20:19-85
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\fcrs1975\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\046c4c2149a9fdd1f27393366349d9a2\AndroidManifest.xml:24:13-79

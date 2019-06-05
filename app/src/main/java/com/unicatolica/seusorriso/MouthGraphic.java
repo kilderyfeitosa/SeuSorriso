@@ -21,7 +21,12 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.PointF;
+
+
 import com.unicatolica.seusorriso.ui.camera.GraphicOverlay;
+
+/*Graphics class for rendering Googly Eyes on a graphic overlay given the current eye positions.
+*/
  //Classe de gráficos para redenrizar a aplicação em uma
 // sobreposição gráfica dada a posição atual da boca.
 
@@ -38,16 +43,22 @@ class MouthGraphic extends GraphicOverlay.Graphic {
     private Paint mMouthOutlinePaint;
     private Paint mMouthLidPaint;
 
+    // Keep independent physics state for each eye.
     //Mantenha o estado de física independente de cada ponto da boca.
     private MouthPhysics mButtomPhysics = new MouthPhysics();
     private MouthPhysics mLeftPhysics = new MouthPhysics();
     private MouthPhysics mRightPhysics = new MouthPhysics();
+
+
     private volatile PointF mButtomPosition;
     private volatile boolean mButtomOpen;
+
     private volatile PointF mLeftPosition;
     private volatile boolean mLeftOpen;
+
     private volatile PointF mRightPosition;
     private volatile boolean mRightOpen;
+
 
     //==============================================================================================
     // Methods
@@ -115,6 +126,12 @@ class MouthGraphic extends GraphicOverlay.Graphic {
 
     }
 
+
+
+    /**
+     * Updates the eye positions and state from the detection of the most recent frame.  Invalidates
+     * the relevant portions of the overlay to trigger a redraw.
+     */
     void updateMouth(PointF buttomPosition, boolean buttomOpen,
                     PointF leftPosition, boolean leftOpen,
                     PointF rightPosition, boolean rightOpen) {
@@ -131,6 +148,11 @@ class MouthGraphic extends GraphicOverlay.Graphic {
         postInvalidate();
     }
 
+    /**
+     * Draws the current eye state to the supplied canvas.  This will draw the eyes at the last
+     * reported position from the tracker, and the iris positions according to the physics
+     * simulations for each iris given motion and other forces.
+     */
     @Override
     public void draw(Canvas canvas) {
         PointF detectButtomPosition = mButtomPosition;
@@ -164,8 +186,8 @@ class MouthGraphic extends GraphicOverlay.Graphic {
                            PointF smilePosition,  float smileRadius, boolean isOpen) {
 
         if (isOpen) {
-            canvas.drawBitmap(mSorriso,leftPosition.x, buttomPosition.y, null);
-//            canvas.drawBitmap(mSorriso,buttomPosition.x-100, buttomPosition.y-85, null); // Cell Kill
+            //canvas.drawBitmap(mSorriso,leftPosition.x, buttomPosition.y-120, null);
+            canvas.drawBitmap(mSorriso,buttomPosition.x-100, buttomPosition.y-80, null);
 //            canvas.drawBitmap(mSorriso,buttomPosition.x-100, buttomPosition.y-90, null);
             //canvas.drawBitmap(efeitos,buttomPosition.x, buttomPosition.y, null);
 
@@ -180,7 +202,7 @@ class MouthGraphic extends GraphicOverlay.Graphic {
             //float end = buttomPosition.x + mouthRadius;
             //canvas.drawLine(start, y, end, y, mMouthOutlinePaint);
         }
-        //canvas.drawText("Selecione um filtro e sorria...",buttomPosition.x, buttomPosition.y, mMouthWhitesPaint);
+        //canvas.drawText("Boca Fechada",buttomPosition.x, buttomPosition.y, mMouthWhitesPaint);
         //canvas.drawCircle(buttomPosition.x, buttomPosition.y, mouthRadius, mMouthOutlinePaint);
     }
 

@@ -8,7 +8,7 @@
     <item android:drawable="@color/sua_cor_do_foco" android:state_activated="true"/>
 
     <!-- normal-->
-    <item android:drawable="@color/color_cinza"/>
+    <item android:drawable="@color/sua_cor_default"/>
 
 
 

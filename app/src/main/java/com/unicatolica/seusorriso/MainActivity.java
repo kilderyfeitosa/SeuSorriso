@@ -60,14 +60,14 @@ public class MainActivity extends AppCompatActivity {
                         "        padding: 3vh;\n" +
                         "        background-color: #0b0b5f;\n" +
                         "        color: #ffffff;\n" +
-                        "        font-size: 3vh;\n" +
+                        "        font-size: 3.5vh;\n" +
                         "        border-radius: 2vh;\n" +
                         "        text-indent: 1.5em;\n" +
                         "        }\n" +
                         "    \n" +
                         "    </style>\n" +
                         "</head>\n" +
-                        "<body>\n" +
+                        "<body style='background-color: #1D1D1D;'>\n" +
                         "    <div class=\"corpo\">\n" +
                         "        <h4>DICAS PARA QUEM QUER E/OU PRECISA PARAR DE FUMAR</h4>\n" +
                         "        <div class=\"texto\">\n" +
